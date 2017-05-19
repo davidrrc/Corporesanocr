@@ -1,0 +1,4 @@
+var http = require('http');
+var server = http.createServer( function (request, resonse) { //magic happens here!!!
+}
+);
